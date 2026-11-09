@@ -12,6 +12,8 @@
 
 <img src="https://raw.githubusercontent.com/cldNexus/.github/main/profile/cftch.gif" alt="cftch: Terminal mit rotierendem ASCII-Skull in Cyan, Magenta und Rot und Infos zu cldNexus" width="640" />
 
+<sub><b>cftch</b> · animierter 3D-Fetch für Windows · <i>bald verfügbar</i></sub>
+
 </div>
 
 ---
