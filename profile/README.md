@@ -10,6 +10,8 @@
 
 [Website](https://cldnexus.github.io)
 
+<img src="https://raw.githubusercontent.com/cldNexus/.github/main/profile/skull.gif" alt="cftch: rotierender Skull aus ASCII-Zeichen in Cyan, Magenta und Rot" width="300" />
+
 </div>
 
 ---
